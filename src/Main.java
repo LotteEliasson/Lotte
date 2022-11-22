@@ -15,6 +15,7 @@ public class Main {
                     System.out.print(i);
                 }
                 System.out.println();
+                System.out.println(" ekko");
             }
         }
 
